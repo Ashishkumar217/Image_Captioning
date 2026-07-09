@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+dataset/images/
+dataset/Images/
+dataset/captions.txt
+
+# Model Files
+models/*.keras
+models/*.h5
+models/*.pkl
+
+# Feature Files
+features/*.pkl
+
+# Temporary Files
+tempCodeRunnerFile.py
+.DS_Store
